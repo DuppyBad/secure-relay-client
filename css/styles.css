@@ -1,0 +1,13 @@
+* {
+    border-radius: 5px;
+    background-color: #203;
+    color: #edf;
+}
+input, textarea {
+    border-color: #fff;
+}
+a {
+    color: #46f;
+    background-color: unset;
+}
+
